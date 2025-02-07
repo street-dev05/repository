@@ -4,7 +4,7 @@
 int main() {
     srd::string name;
 
-    std::cout << "Ââåä³òü ñâîº ³ìÿ";
+    std::cout << "Ã‚Ã¢Ã¥Ã¤Â³Ã²Ã¼ Ã±Ã¢Ã®Âº Â³Ã¬Ã¿";
     std::getline(srd::cin, name);
 
     std::cout << "Hello...!" << name << std:endl;
